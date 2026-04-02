@@ -10,7 +10,7 @@
 
 # 
 
-# \## 🚀 Features
+# \##  Features
 
 # \- User authentication
 
@@ -20,7 +20,7 @@
 
 # 
 
-# \## 🛠️ Tech Stack
+# \## Tech Stack
 
 # \- React (Frontend)
 
@@ -30,7 +30,7 @@
 
 # 
 
-# \## 📚 Learning Outcome
+# \##  Learning Outcome
 
 # \- Understood backend architecture and API flow
 
@@ -40,7 +40,7 @@
 
 # 
 
-# \## 📌 Note
+# \##  Note
 
 # This project helped me gain exposure to backend concepts and real-world application flow.
 
